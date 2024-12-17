@@ -1,0 +1,15 @@
+{
+  "name": "Spooky Crossing",
+  "short_name": "Spooky Crossing",
+  "id": "com.ads11.spookycrossing",
+  "description": "",
+  "orientation": "portrait",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": [{
+        "src": "Diseño sin título.png",
+        "sizes": "192x192"
+      }]
+}
